@@ -17,11 +17,11 @@ The project includes:
 
 ## Creating a database and tables
 
-The process of creating the database and tables with customers, products and orders was performed using MySQL and stored in file [*shop.sql*](https://github.com/lucjankonopka/sql_shop_database/blob/main/shop.sql).
+The process of creating the database and tables with customers, products and orders was performed using MySQL and stored in file [*shop.sql*](https://github.com/Zandersan/sql-database-shop/blob/main/shop.sql).
 
 ## Analysis
 
-The documentation of the data analysis process is included in the file [*shop.ipynb*](https://github.com/lucjankonopka/sql_shop_database/blob/main/shop.ipynb).
+The documentation of the data analysis process is included in the file [*shop.ipynb*](https://github.com/Zandersan/sql-database-shop/blob/main/shop.ipynb).
 
 ## Summary
 
